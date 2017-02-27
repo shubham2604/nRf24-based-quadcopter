@@ -1,4 +1,4 @@
-# ArduinoQuad
+# nRf24-based-quadcopter
 Disclaimer-
 Quadcopter are extremely dangerous if not handled properly. Propellers rotating at high rpm are extremely dangerous and proper eye protection should be weared while testing.I shall not be held responsible for any kind of loss in any case. <b>Do it at your own risk</b>. 
 

@@ -14,3 +14,8 @@ This Quadcopter is based on YMFC's v2.0 quadcopter and uses following components
 6. Receiver - nRf24l01+.
 7. Battery - Zippy LiPo 2200 mah 25c.
 8. Charger - B3 AC pro balance charger.
+
+
+<b>Libraries used</b>
+1. For IMU- https://github.com/rpicopter/ArduinoMotionSensorExample
+2. For nrf24l01- https://github.com/TMRh20/RF24

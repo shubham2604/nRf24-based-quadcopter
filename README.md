@@ -17,5 +17,5 @@ This Quadcopter is based on YMFC's v2.0 quadcopter and uses following components
 
 
 <b>Libraries used</b>
-1. For IMU- https://github.com/rpicopter/ArduinoMotionSensorExample .
-2. For nrf24l01- https://github.com/TMRh20/RF24 .
+<li>For IMU- https://github.com/rpicopter/ArduinoMotionSensorExample </li>
+<li> For nrf24l01- https://github.com/TMRh20/RF24 </li>
